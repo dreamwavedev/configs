@@ -1,11 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/home/sawyer/repo/CS416/notes'
-let g:netrw_dirhist_2='/home/sawyer/updater/mockup'
-let g:netrw_dirhist_3='/home/sawyer/repo/CS416/3L'
-let g:netrw_dirhist_4='/mnt/bt/EFI/refind/themes/rEFInd-minimal'
-let g:netrw_dirhist_5='/mnt/rt/boot/efi'
-let g:netrw_dirhist_6='/home/sawyer/repo/IOL/dovetail/dovetail/cvp/opnfv_testapi/ui/auth'
-let g:netrw_dirhist_7='/home/sawyer/repo/IOL/pharos/pharos-tools/dashboard/config/postgres'
-let g:netrw_dirhist_8='/home/sawyer/repo/IOL/pharos/pharos-tools/dashboard/src/templates/resource'
-let g:netrw_dirhist_9='/home/sawyer/repo/IOL/pharos/pharos-tools/dashboard/src/booking/tests'
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/home/sawyer/repo/IOL/pharos/pharos-tools/dashboard/src/config_bundle/migrations'
