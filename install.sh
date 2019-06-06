@@ -4,13 +4,13 @@
 sudo echo "authenticated"
 
 {
-	sudo apt -y install fish neovim ripgrep cargo zsh build-essential git pkg-config curl
+	sudo apt -y install fish neovim ripgrep cargo zsh build-essential git pkg-config curl yarn
 } ||
 {
-	sudo pacman -S --noconfirm base-devel fish neovim ripgrep cargo zsh git pkg-config curl
+	sudo pacman -S --noconfirm base-devel fish neovim ripgrep cargo zsh git pkg-config curl yarn
 } ||
 {
-	sudo dnf -y install fish ripgrep cargo git neovim zsh pkg-config curl
+	sudo dnf -y install fish ripgrep cargo git neovim zsh pkg-config curl yarn
 }
 
 # place vimrc
