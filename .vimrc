@@ -517,5 +517,7 @@ set expandtab
 nnoremap <leader>b :Buffers<CR>
 nnoremap <c-p> :FZF<CR>
 nnoremap <leader>p :Rg<CR>
+nnoremap <leader>l :BLines<CR>
 
 nnoremap <leader>w :w<CR>
+
